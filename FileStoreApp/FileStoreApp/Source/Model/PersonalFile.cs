@@ -2,7 +2,9 @@ namespace FileStoreApp.Source.Model
 {
     using System;
     using System.ComponentModel.DataAnnotations;
+    using System.ComponentModel.DataAnnotations.Schema;
 
+    [Table("PersonalFile")]
     public partial class PersonalFile
     {
         public int Id { get; set; }

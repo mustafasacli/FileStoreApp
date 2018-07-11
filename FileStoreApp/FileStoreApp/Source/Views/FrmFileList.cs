@@ -192,6 +192,7 @@ namespace FileStoreApp.Source.Views
                                 allFiles[counter].CreationDate = fileModel.CreationDate;
                                 allFiles[counter].CreatedUser = fileModel.CreatedUser;
                                 allFiles[counter].CreatedBy = fileModel.CreatedBy;
+                                break;
                             }
                         }
                     }

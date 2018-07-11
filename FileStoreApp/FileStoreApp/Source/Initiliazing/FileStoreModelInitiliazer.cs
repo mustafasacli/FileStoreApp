@@ -29,10 +29,10 @@ namespace FileStoreApp.Source.Initiliazing
                 User usr = new User()
                 {
                     Id = 1,
-                    FirstName = "Mustafa",
-                    LastName = "Saçlı",
-                    UserName = "mustiscl",
-                    Pass = SecurityHelper.EncodeString("mst123"),
+                    FirstName = "Test",
+                    LastName = "User",
+                    UserName = "tstusr",
+                    Pass = SecurityHelper.EncodeString("t1es2t3"),
                     CreationDate = DateTime.Now,
                     IsActive = true,
                     UserType = 1

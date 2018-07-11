@@ -1,0 +1,4 @@
+solutioni direkt çalistirmak yeterli.
+login ekraninda kullanici: tstusr
+sifre: t1es2t3
+girilirse sisteme giris yapilabilir.
